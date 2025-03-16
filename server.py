@@ -1,4 +1,3 @@
-// filepath: c:\projects\pythonai\functions\server.py
 import os
 from flask import Flask, request, send_from_directory
 import gradio as gr
